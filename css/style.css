@@ -1,3 +1,11 @@
-body {
-  color: red;
+ul {
+  list-style-type: none;
+}
+.portfolio-jobs {
+  color: #757575
+}
+
+a[href="mailto:info@devstudio.com"],
+a[href="tel:+380961111111"] {
+color: rgba(255, 255, 255, 0.6);
 }
